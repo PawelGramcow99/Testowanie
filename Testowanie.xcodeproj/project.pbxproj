@@ -13,6 +13,9 @@
 		D265E9BB24AA676B003BC7B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D265E9B924AA676B003BC7B2 /* Main.storyboard */; };
 		D265E9BD24AA676D003BC7B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D265E9BC24AA676D003BC7B2 /* Assets.xcassets */; };
 		D265E9C024AA676D003BC7B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D265E9BE24AA676D003BC7B2 /* LaunchScreen.storyboard */; };
+		D265E9C824AA6F8B003BC7B2 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D265E9C724AA6F8B003BC7B2 /* Constants.swift */; };
+		D265E9CC24AA7136003BC7B2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = D265E9CB24AA7136003BC7B2 /* Video.swift */; };
+		D265E9CE24AA7169003BC7B2 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = D265E9CD24AA7169003BC7B2 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		D265E9BC24AA676D003BC7B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D265E9BF24AA676D003BC7B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D265E9C124AA676D003BC7B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D265E9C724AA6F8B003BC7B2 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		D265E9CB24AA7136003BC7B2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
+		D265E9CD24AA7169003BC7B2 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +69,9 @@
 				D265E9BC24AA676D003BC7B2 /* Assets.xcassets */,
 				D265E9BE24AA676D003BC7B2 /* LaunchScreen.storyboard */,
 				D265E9C124AA676D003BC7B2 /* Info.plist */,
+				D265E9C724AA6F8B003BC7B2 /* Constants.swift */,
+				D265E9CB24AA7136003BC7B2 /* Video.swift */,
+				D265E9CD24AA7169003BC7B2 /* Model.swift */,
 			);
 			path = Testowanie;
 			sourceTree = "<group>";
@@ -141,6 +150,9 @@
 				D265E9B824AA676B003BC7B2 /* ViewController.swift in Sources */,
 				D265E9B424AA676B003BC7B2 /* AppDelegate.swift in Sources */,
 				D265E9B624AA676B003BC7B2 /* SceneDelegate.swift in Sources */,
+				D265E9CE24AA7169003BC7B2 /* Model.swift in Sources */,
+				D265E9C824AA6F8B003BC7B2 /* Constants.swift in Sources */,
+				D265E9CC24AA7136003BC7B2 /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
